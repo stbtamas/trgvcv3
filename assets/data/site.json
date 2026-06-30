@@ -1,0 +1,108 @@
+{
+  "brand": {
+    "name": "TRGVC",
+    "tagline": "Music Producer \u2022 PC Gamer \u2022 Digital Creator",
+    "domain": "https://trgvc.club",
+    "email": "info@trgvc.club",
+    "location": "United Kingdom",
+    "description": "TRGVC is a UK-based electronic music producer, gaming creator, and digital media brand blending cinematic atmosphere, Warzone energy, Forza speed, and community-driven content."
+  },
+  "links": {
+    "Spotify": "https://open.spotify.com/artist/4r17VtPq9uwHDU81ER0E9o?si=A5wsF5NSQyq_rSd3zSl57Q",
+    "Apple Music": "https://music.apple.com/gb/artist/trgvc/1875089429",
+    "YouTube Music": "https://music.youtube.com/channel/UCTJMtzodlcDEYt38qR_0cxQ?si=j6pfxBYfgXhcgv7V",
+    "Amazon Music": "https://music.amazon.co.uk/artists/B0GLXTS1JZ?ref=dm_sh_E14gF7xKe6MwNTuq8Qb2HRsTo",
+    "TIDAL": "https://tidal.com/artist/74097811/u",
+    "Deezer": "https://link.deezer.com/s/32WE8DpT7PZptG0HXoECq",
+    "YouTube": "https://youtube.com/@trgvc?si=Z5XTuTABPZBFkIj2",
+    "TikTok": "https://www.tiktok.com/@trgvc",
+    "Instagram": "https://www.instagram.com/trgvcofficial",
+    "X / Twitter": "https://x.com/trgvcofficial?s=21",
+    "Facebook": "https://www.facebook.com/share/1Dez5gCDDH/?mibextid=wwXIfr",
+    "Discord": "https://discord.gg/ub7tgeMv",
+    "Steam": "https://steamcommunity.com/id/stbvideo",
+    "DUBBY Energy": "https://www.dubby.gg/"
+  },
+  "albums": [
+    {
+      "title": "Signals in the Dark",
+      "year": "2026",
+      "type": "Album",
+      "genre": "Electronic \u2022 Trap \u2022 Cinematic Bass",
+      "cover": "assets/img/albums/signals-in-the-dark.svg",
+      "spotify": "https://open.spotify.com/album/4AC3K4l4IN7mg8Ttu57tCx?si=3utmSirZQsigZkZftcD0eg",
+      "note": "Dark neon atmosphere, club-ready drive, and cinematic pressure."
+    },
+    {
+      "title": "Pulse of the Night",
+      "year": "2026",
+      "type": "Album",
+      "genre": "Trap \u2022 R&B \u2022 Hip-Hop",
+      "cover": "assets/img/albums/pulse-of-the-night.svg",
+      "spotify": "https://open.spotify.com/artist/4r17VtPq9uwHDU81ER0E9o?si=A5wsF5NSQyq_rSd3zSl57Q",
+      "note": "Night-drive energy with glowing synths, and emotional hooks."
+    },
+    {
+      "title": "Velocity Horizon",
+      "year": "2026",
+      "type": "Album",
+      "genre": "Electronic \u2022 Gaming \u2022 Bass",
+      "cover": "assets/img/albums/velocity-horizon.svg",
+      "spotify": "https://open.spotify.com/artist/4r17VtPq9uwHDU81ER0E9o?si=A5wsF5NSQyq_rSd3zSl57Q",
+      "note": "Fast, futuristic, and built for racing edits and high-intensity moments."
+    },
+    {
+      "title": "The Digital Sunrise",
+      "year": "2026",
+      "type": "Album",
+      "genre": "EDM \u2022 Cinematic \u2022 Uplifting",
+      "cover": "assets/img/albums/the-digital-sunrise.svg",
+      "spotify": "https://open.spotify.com/artist/4r17VtPq9uwHDU81ER0E9o?si=A5wsF5NSQyq_rSd3zSl57Q",
+      "note": "Bright melodic energy built around optimism, progress, and digital rebirth."
+    }
+  ],
+  "singles": [
+    {
+      "title": "Forward",
+      "year": "2026",
+      "genre": "Trap \u2022 R&B \u2022 Hip-Hop",
+      "lyrics": "lyrics/forward.html",
+      "note": "Life is not easy, but the mission is to look ahead and leave the past behind."
+    },
+    {
+      "title": "Light It Up",
+      "year": "2026",
+      "genre": "Dance Trap \u2022 Upbeat Hip-Hop",
+      "lyrics": "lyrics/light-it-up.html",
+      "note": "Club-ready positive energy with male and female duet moments."
+    },
+    {
+      "title": "Silent Blueprint",
+      "year": "2026",
+      "genre": "Energetic Trap \u2022 Music Energy",
+      "lyrics": "lyrics/silent-blueprint.html",
+      "note": "Protect the mission, trust your pace, and move without needing validation."
+    }
+  ],
+  "news": [
+    {
+      "date": "30 Jun 2026",
+      "title": "TRGVC Website v2 launches",
+      "tag": "Website",
+      "body": "A new cinematic home for music, gaming, videos, wallpapers, releases, and community links."
+    },
+    {
+      "date": "29 Jun 2026",
+      "title": "Forward artwork direction",
+      "tag": "Music",
+      "body": "TRGVC continues building a neon cinematic visual language around motivation, and brighter horizons."
+    },
+    {
+      "date": "27 Jun 2026",
+      "title": "Warzone Avalon final-circle content",
+      "tag": "Gaming",
+      "body": "New short-form concepts focus on comeback wins, gulag returns, and intense final-circle moments."
+    }
+  ],
+  "notes": "Update this file when release links, socials, videos, or news posts change. Static HTML pages are ready now; this JSON is included for future automation."
+}

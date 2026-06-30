@@ -1,0 +1,12 @@
+TRGVC Website v6 Live-Ready Deployment Checklist
+
+1. Unzip this package.
+2. Open the trgvc-website-v6-live-ready folder.
+3. Upload the CONTENTS of the folder to your GitHub repository root.
+4. Make sure index.html and assets/ are visible at the top level.
+5. Go to GitHub repository Settings > Pages.
+6. Deploy from branch main/root or use GitHub Actions if configured.
+7. Confirm the custom domain is trgvc.club.
+8. Confirm CNAME contains trgvc.club.
+9. Clear browser cache or open the website in incognito/private mode.
+10. Check Home, Music, Gaming, Videos, Gallery, News, About and Contact.

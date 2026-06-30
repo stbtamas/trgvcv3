@@ -1,0 +1,16 @@
+{
+  "name": "TRGVC",
+  "short_name": "TRGVC",
+  "description": "TRGVC official website: Music, Gaming and Community.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#03050c",
+  "theme_color": "#8b45ff",
+  "icons": [
+    {
+      "src": "/assets/img/brand/trgvc-favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
